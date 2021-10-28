@@ -5,7 +5,7 @@
 - 👯 I'm Studying code projects in visual presentation 
 - 😄 Pronouns: Him/His
 
-![PedroTaveira10 github stats](https://github-readme-stats.vercel.app/api?username=PedroTaveira10&show_icons=true&theme=merko)
+![PedroTaveira10 github stats](https://github-readme-stats.vercel.app/api?username=PedroTaveira10&show_icons=true&theme=tokyonight)
 
 [![GitHub Followers](https://img.shields.io/github/followers/PedroTaveira10?style=for-the-badge&logo=Github&Color=white)](https://github.com/PedroTaveira10)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=for-the-badge&logo=Linkedin&Color=white)](https://www.linkedin.com/in/pedro-taveira-71420b224/)
