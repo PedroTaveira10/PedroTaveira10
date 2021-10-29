@@ -6,7 +6,6 @@
 - 😄 Pronouns: Him/His
 
 ![PedroTaveira10 github stats](https://github-readme-stats.vercel.app/api?username=PedroTaveira10&show_icons=true&theme=tokyonight)  
-  <a href="https://www.linkedin.com/in/pedro-taveira-71420b224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PedroTaveira10-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +21,5 @@
 <div> 
   <a href="https://www.instagram.com/pedrohenriquetaveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedro.craque@hotmail.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
-    <a href = "mailto:PEDRO.OLIVEIRA70251@alunos.ufersa.edu.brr"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
-     <a href = "mailto:pedro.craque@hotmail.com"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
-
-</div> 
+    <a href = "mailto:PEDRO.OLIVEIRA70251@alunos.ufersa.edu.brr"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank">
+ < <a href="https://www.linkedin.com/in/pedro-taveira-71420b224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
