@@ -1,5 +1,7 @@
 # Hi There, I'm Pedro Taveira  👋
 
+<img src="computer-illustration.png" alt="icone-astronauta" width="300px" height="200px">
+
 - 🔭 I am currently studying at the Faculty of Information Technology [@PedroTaveira10](https://github.com/PedroTaveira10)
 - 🌱 I'm learning about Front End Development.
 - 👯 I'm Studying code projects in visual presentation 
