@@ -6,9 +6,10 @@
 - 🌱 I'm learning about Front End Development.
 - 👯 I'm Studying code projects in visual presentation 
 - 😄 Pronouns: Him/His
-
-![PedroTaveira10 github stats](https://github-readme-stats.vercel.app/api?username=PedroTaveira10&show_icons=true&theme=tokyonight)  
-
+<div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroTaveira10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTaveira10&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="PedroTaveira10-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PedroTaveira10-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
