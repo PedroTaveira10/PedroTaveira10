@@ -15,7 +15,7 @@
   <img align="center" alt="PedroTaveira10-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="PedroTaveira10-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   
-  <img align="right" alt="Bruno-Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/896630604899176479/896630879412174908/inspectocat.jpg?width=504&height=504">
+  <img align="right" alt="Pedro-Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/896630604899176479/896630879412174908/inspectocat.jpg?width=504&height=504">
 </div>
 
 ##
