@@ -1,15 +1,27 @@
-# Hi There, I'm Pedro Taveira  👋
+## Olá, meu nome é Pedro Taveira 🚀
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<img src="computer-illustration.png" alt="icone-astronauta" width="300px" height="200px">
 
-- 🔭 I am currently studying at the Faculty of Information Technology [@PedroTaveira10](https://github.com/PedroTaveira10)
-- 🌱 I'm learning about Front End Development.
-- 👯 I'm Studying code projects in visual presentation 
-- 😄 Pronouns: Him/His
-<div>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroTaveira10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTaveira10&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">
+   <a href="https://www.youtube.com/channel/UCRuBkdKQUGUu6Znhr4UCj6Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/pedrohenriquetaveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/#9205" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:PEDRO.OLIVEIRA70251@alunos.ufersa.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-taveira-71420b224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## 
+
+- :computer: Atualmente estou estudando: CSS | HTML | JAVASCRIPT | REACT | UI E UX DESIGN
+- :mortar_board: Cursando Tecnologia da informação - UFERSA - 3º Semestre
+- 💼 A Procura do Primeiro Emprego ou do Primeiro Estágio.
+- 🔎 Hobbies: Jogos & Filmes .
+
+  <div align="center">
+  <a href="https://github.com/engenny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroTaveira10Front&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTaveira10Front&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="PedroTaveira10-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PedroTaveira10-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,11 +30,3 @@
   
   <img align="right" alt="Pedro-Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/896630604899176479/896630879412174908/inspectocat.jpg?width=504&height=504">
 </div>
-
-##
-
-<div> 
-  <a href="https://www.instagram.com/pedrohenriquetaveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedro.craque@hotmail.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
-    <a href = "mailto:PEDRO.OLIVEIRA70251@alunos.ufersa.edu.brr"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank">
- <a href="https://www.linkedin.com/in/pedro-taveira-71420b224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
