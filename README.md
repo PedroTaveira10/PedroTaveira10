@@ -8,9 +8,8 @@
  <a href="https://discord.gg/#9205" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:PEDRO.OLIVEIRA70251@alunos.ufersa.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-taveira-71420b224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+   </div>
 ## 
-
 - :computer: Atualmente estou estudando: CSS | HTML | JAVASCRIPT | REACT | UI E UX DESIGN
 - :mortar_board: Cursando Tecnologia da informação - UFERSA - 3º Semestre
 - 💼 A Procura do Primeiro Emprego ou do Primeiro Estágio.
