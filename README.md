@@ -15,7 +15,7 @@
 
 - :computer: Atualmente estou estudando: CSS | HTML | JAVASCRIPT | REACT | UI E UX DESIGN
 - :mortar_board: Cursando Tecnologia da informação - UFERSA - 3º Semestre
-- 💼 A Procura do Primeiro Emprego ou do Primeiro Estágio.
+- 💼 Analista de suporte técnico da empresa CSJ Sistemas.
 - 🔎 Hobbies: Jogos & Filmes .
 
   <div align="center">
