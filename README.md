@@ -13,7 +13,7 @@
 ## 
 
 
-- :computer: Atualmente estou estudando: CSS | HTML | JAVASCRIPT | REACT | UI E UX DESIGN
+- :computer: Atualmente estou estudando: REACT
 - :mortar_board: Cursando Tecnologia da informação - UFERSA - 3º Semestre
 - 💼 Analista de suporte técnico da empresa CSJ Sistemas.
 - 🔎 Hobbies: Jogos & Filmes .
