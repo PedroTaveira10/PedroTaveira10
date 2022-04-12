@@ -17,6 +17,7 @@
 - :mortar_board: Cursando Tecnologia da informação - UFERSA - 3º Semestre
 - 💼 Analista de suporte técnico da empresa CSJ Sistemas.
 - 🔎 Hobbies: Jogos & Filmes .
+- 📫 Email para contato: **pedroyoficial@gmail.com**
 
   <div align="center">
   <a href="https://github.com/PedroTaveira10">
