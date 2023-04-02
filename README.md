@@ -14,7 +14,7 @@
 
 
 - :computer: Atualmente estou estudando: JS, REACT , NodeJS
-- :mortar_board: Cursando Tecnologia da informação - UFERSA - 4º Semestre
+- :mortar_board: Cursando Tecnologia da informação - UFERSA - 5º Semestre
 - 💼 Analista de suporte técnico da empresa CSJ Sistemas.
 - 🔎 Hobbies: Jogos & Filmes .
 - 📫 Email para contato: **pedroyoficial@gmail.com**
